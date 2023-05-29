@@ -1,5 +1,9 @@
 # dz-store-class
 
+[![Build status](https://ci.appveyor.com/api/projects/status/xja0j93yj8gt8tma?svg=true)](https://ci.appveyor.com/project/pvova21/dz-store-class)
+
+## [GitHub Pages](https://pvova21.github.io/dz-store-class/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
